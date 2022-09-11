@@ -1,6 +1,6 @@
-## Your Name
+## Tom Allen
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Current student at Makers, and therefore a **Very Junior Full Stack Developer**. Consummate data-wrangler looking for fertile ground to grow my skillbase into something that can really help people, and a way out of an unintended plant metaphor. Always excited to find better ways to do things, even more excited to make those things do themselves.
 
 ## Projects
 
@@ -11,10 +11,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Cornwall Council** (01/19 to 07/22)  
+_Data Officer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Conducted statistical analasis of social care data for statutory return to gov. agencies and internal strategy.
+- Presented analyses to senior leadership and inspection teams.
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -22,19 +23,6 @@ _Your job title_
 - Any experience relevent to software development
 
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
 
 #### This Skill
 
@@ -44,16 +32,9 @@ Consider skills relevent to software development. Then consider your best skills
 
 #### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (09/22 to <ongoing!>)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,16 +43,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Cardiff University (2009 to 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Biology, focus on behaviour and parisitology
+- 2:1
+- Award for outstanding Year in Industry Project - Bat Telemetry with the University of Regina, Saskatchewan
 
-#### Any other qualifications
+#### University of Exeter (2015 to 2016)
 
-That in some arguable way make you a better software developer or well-rounded person
+- PGC Applied Ecology
+- Merit
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- Planning my first ultramarathon for summer 2023
+- Recent cycling convert - I managed all 100 miles of Ride London '22!
+- Incurable trivia hound. _Please_ ask me about asteroid mining, or cognition in corvids. Or how submarines influenced game theory, or about car-dependent infastructure, or abiogenesis, or
