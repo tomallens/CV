@@ -8,6 +8,18 @@ I'm happiest when I can work closely with stakeholders in a project as I'm deepl
 
 [![My Skills](https://skillicons.dev/icons?i=css,docker,express,firebase,heroku,html,js,jest,mongodb,nodejs,postgres,rails,react,ruby,sequelize)](https://skillicons.dev)
 
+## Key Skills
+
+#### Communicator
+
+I've gathered a wide communication skill base spanning formal academic and professional presentation, public science communication, charity outreach, client relations and technical sales. While I've so far dodged a formal career in education I've found reknown as an empathetic, genial and above all effective conduit for information in and outside of a business.
+I credit this broad background for my consistently positive feedback as a pair programming partner and team member at Makers, most notably working on [Votewatch](https://www.youtube.com/watch?v=jNPUt79UpsA&t=134s) where I managed to unite the team around developing for mobile for the first time - a dilemma while planning the scope of the project. Having taken an evening at the start of our first sprint to find us a framework to work with and deploy from (React Native and Expo) I was able to walk the team through the packages from trepidation to enthusiasm the next morning.
+
+#### Instictive Tester
+
+I've always been obsessed with how to *prove* the intuitions and hunches that crop up after working with a system, whether just patterns in a dataset or undocumented behaviours in a system. My academic work gave me a set of statistical tools and expectations of rigor in checking 'common sense' that I've applied at ever since - from controlling for weather in measuring monthly sales data to removing leading questions in social worker feedback forms I can't help but look for the unexpected and unintended in my work.
+These instincts have already shone in my programming, where they have led me to identify bugs that appeared at first glance to be components passing stringent test coverage.
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -94,4 +106,5 @@ _Research Assistant_
 ## Hobbies
 - Training for my first ultramarathon for summer 2023 - the [Classic Quarter](https://www.endurancelife.com/classic-quarter)!
 - Recent cycling convert - I managed all 100 miles of Ride London '22!
+- Although I'm still looking for a boat in Bristol, I'm a storied dinghy sailor and peaked (so far!) representing Team GB in the Hobie Dragoon (Worlds 2004 Duinbergen: 3rd, Euros 2005 Heiligenhafen: 1st)
 - Incurable trivia hound. _Please_ ask me about asteroid mining, or cognition in corvids. Or how submarines produced game theory, or about car-dependent infastructure, or abiogenesis, or-
