@@ -51,7 +51,7 @@ _LegalLib AI_ (01/23)
 **Cornwall Council** (01/19 to 07/22)  
 _Data Officer_
 
-- Conducted statistical analasis of social care data for statutory return to gov. agencies and internal strategy - turning SQL queries into business insight.
+- Conducted statistical analysis of social care data for statutory return to gov. agencies and internal strategy - turning SQL queries into business insight.
 - Evaluated data-gathering methodology and KPIs for task fitness.
 - Presented analyses to senior leadership and inspection teams.
 
